@@ -1,9 +1,0 @@
-9,8: 7 starts, bound 5.0
-  [     4s] Emin_98_5.json#0       E 8.1326e-06 -> 8.132565e-06  max|coef|    1.623  resid 5.6e-17  (2 it)
-  [     4s] Emin_98_5.json#1       E 8.6845e-06 -> 8.684534e-06  max|coef|    5.000  resid 6.4e-16  (0 it)
-  [   902s] Emin_98_5.json#2       E 9.0820e-06 -> 7.000060e-06  max|coef|    5.000  resid 4.8e-15  (2059 it)
-  [  1110s] Emin_98_5.json#3       E 9.0881e-06 -> 7.000004e-06  max|coef|    5.000  resid 6.2e-15  (2639 it)
-  [  1113s] Emin_98_5.json#6       E 1.0987e-05 -> 1.098679e-05  max|coef|    5.000  resid 9.6e-15  (0 it)
-  [  1194s] Emin_98_5.json#4       E 9.0983e-06 -> 9.079701e-06  max|coef|    3.900  resid 4.4e-16  (2999 it)
-  [  1760s] Emin_98_5.json#5       E 9.1057e-06 -> 9.083458e-06  max|coef|    2.779  resid 7.2e-16  (2999 it)
-best: Emin_98_5.json#3 E = 7.000004e-06, max|coef| = 5.000

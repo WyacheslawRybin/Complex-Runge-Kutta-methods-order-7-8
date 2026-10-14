@@ -1,7 +1,0 @@
-=== 23:43:49 ../../code/csearch/casc98_8.exe 2700 23 37:17,85:37,200:85 2000,2000,4000 h98_87_r23.bin
-starts=2700 pass1=70 hits=0 best=8.027e-06  S=9 MH=8 NX=106 stages=37:17,85:37,200:85 iters=2000,2000,4000 seeds=0 spread=0.300 time=1899s
-  final max|r| by decade: 1e-6:1 1e-5:2 1e-4:50 1e-3:17
-=== 00:15:28 ../../code/csearch/casc98_8.exe 2000 42 85:85,200:85 2000,4000 h98_87_seed42.bin seeds_98_87.bin 5172 0.05
-starts=2000 pass1=1034 hits=0 best=1.067e-05  S=9 MH=8 NX=106 stages=85:85,200:85 iters=2000,4000 seeds=5172 spread=0.050 time=2607s
-  final max|r| by decade: 1e-5:141 1e-4:551 1e-3:309 1e-2:31 1e-1:1 1e+0:1
-=== 00:58:55 ../../code/csearch/casc108_9.exe 6000 32 37:17,85:37,200:85 2000,2000,4000 h108_97_r32.bin

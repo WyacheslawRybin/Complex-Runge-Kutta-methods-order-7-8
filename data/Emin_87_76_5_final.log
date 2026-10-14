@@ -1,5 +1,0 @@
-8,7/7,6: 3 starts, bound 5.0
-  [     1s] Emin_87_76_5_pol_r1.json#1 E 8.7533e-06 -> 8.753264e-06  max|coef|    5.000  resid 1.3e-15  (0 it)
-  [     1s] Emin_87_76_5_pol_r1.json#2 E 8.7553e-06 -> 8.755287e-06  max|coef|    5.000  resid 1.2e-15  (0 it)
-  [    73s] Emin_87_76_5_pol_r1.json#0 E 8.7465e-06 -> 8.699145e-06  max|coef|    5.000  resid 2.8e-15  (1882 it)
-best: Emin_87_76_5_pol_r1.json#0 E = 8.699145e-06, max|coef| = 5.000
