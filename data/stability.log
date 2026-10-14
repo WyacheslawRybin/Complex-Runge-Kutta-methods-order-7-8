@@ -1,0 +1,25 @@
+Verner7(6)               real [-5.0623, 0]  imag 2.9600  per eval 0.506  area(left) 35.779  2x2 check 4.4e-16
+Vern7                    real [-4.6408, 0]  imag 0.0000  per eval 0.516  area(left) 33.187  2x2 check 6.7e-16
+Fehlberg7                real [-5.0362, 0]  imag 1.8824  per eval 0.458  area(left) 35.138  2x2 check 1.9e-16
+CooperVerner8            real [-4.1426, 0]  imag 3.3962  per eval 0.377  area(left) 27.194  2x2 check 1.1e-16
+DP8(7)                   real [-5.1666, 0]  imag 0.0000  per eval 0.397  area(left) 43.335  2x2 check 3.3e-16
+DOP853                   real [-6.3937, 0]  imag 5.9604  per eval 0.533  area(left) 65.690  2x2 check 4.0e-16
+Fehlberg8                real [-5.0076, 0]  imag 2.3652  per eval 0.385  area(left) 32.576  2x2 check 5.6e-16
+Verner8(7)               real [-5.0767, 0]  imag 4.7754  per eval 0.391  area(left) 36.608  2x2 check 3.5e-16
+max deviation of P from T_p up to z^p over all levels: 0.0
+  CRK7-opt     tail k!*c_k (k > p): [[]]
+  CRK7s7b      tail k!*c_k (k > p): [[]]
+  CRK7-B0      tail k!*c_k (k > p): [[]]
+  CRK7-Bbal    tail k!*c_k (k > p): [[]]
+  CRK7-Blo     tail k!*c_k (k > p): [[]]
+  CCK7(6)      tail k!*c_k (k > p): [[1.09781], [1.17319]]
+  CRK8-opt     tail k!*c_k (k > p): [[0.9411]]
+  CRK8-b       tail k!*c_k (k > p): [[0.64465]]
+  CRK8s9       tail k!*c_k (k > p): [[0.49307]]
+  RSF-CRK8-9   tail k!*c_k (k > p): [[-5.59589]]
+  RSF-CRK8-10  tail k!*c_k (k > p): [[0.18745, 1.10977]]
+{'_T1': (np.float64(-2.0), 0.0), '_T2': (np.float64(-2.0), 0.0), '_T3': (np.float64(-2.5127), np.float64(1.7321)), '_T4': (np.float64(-2.7853), np.float64(2.8284)), '_T5': (np.float64(-3.217), 0.0), '_T6': (np.float64(-3.5534), 0.0), '_T7': (np.float64(-3.9541), np.float64(1.7644)), '_T8': (np.float64(-4.3136), np.float64(3.3951))}
+
+real	0m17.927s
+user	0m0.015s
+sys	0m0.015s

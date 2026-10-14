@@ -1,0 +1,4 @@
+[77_66_cck6 seed 14] S=7 levels=[(7, 7), (6, 6)] unknowns=66 conditions=122 warm=3
+  [    361s] batch 1/40 starts 48 hits 0 dims [] best max|r|: 1.9e-06 2.1e-06 2.1e-06 2.6e-06 2.9e-06
+  [    721s] batch 2/40 starts 96 hits 0 dims [] best max|r|: 1.6e-06 1.7e-06 1.9e-06 2.0e-06 2.1e-06
+  [   1023s] batch 3/40 starts 144 hits 0 dims [] best max|r|: 7.6e-07 1.4e-06 1.6e-06 1.7e-06 1.9e-06

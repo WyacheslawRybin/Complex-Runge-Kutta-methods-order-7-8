@@ -1,0 +1,11 @@
+8,7/7,6: 9 starts, bound 5.0
+  [     9s] cck7_front_starts.json#1 E 1.0297e-05 -> 9.276812e-06  max|coef|    5.000  resid 6.1e-15  (41 it)
+  [    11s] cck7_front_starts.json#0 E 1.3701e-05 -> 9.485421e-06  max|coef|    5.000  resid 1.2e-15  (50 it)
+  [    13s] cck7_front_starts.json#0+rand3 E 1.3715e-05 -> 9.154302e-06  max|coef|    5.000  resid 2.6e-15  (63 it)
+  [    13s] cck7_front_starts.json#2+rand3 E 9.2707e-06 -> 9.452153e-06  max|coef|    5.000  resid 3.6e-16  (5 it)
+  [    13s] cck7_front_starts.json#0+rand0 E 1.3750e-05 -> 9.097184e-06  max|coef|    5.000  resid 5.1e-15  (64 it)
+  [    18s] cck7_front_starts.json#3 E 8.5865e-06 -> 1.721704e-05  max|coef|    5.000  resid 8.9e-16  (31 it)
+  [    19s] cck7_front_starts.json#3+rand3 E 9.0940e-06 -> 1.187274e-05  max|coef|    5.000  resid 3.1e-16  (32 it)
+  [    29s] cck7_front_starts.json#3+rand0 E 9.0343e-06 -> 9.040805e-06  max|coef|    5.000  resid 9.2e-15  (99 it)
+  [    57s] cck7_front_starts.json#2 E 9.2768e-06 -> 9.251011e-06  max|coef|    5.000  resid 2.2e-16  (599 it)
+best: cck7_front_starts.json#3+rand0 E = 9.040805e-06, max|coef| = 5.000

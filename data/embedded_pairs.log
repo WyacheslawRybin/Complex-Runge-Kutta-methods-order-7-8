@@ -1,0 +1,10 @@
+CRK7(5): kernel 1 resid 4.2e-45  Ahat=1.8455e-04 B=1.273 C=1.273 E=0.000 max|bh|=6.407
+CRK8(6): kernel 1 resid 9.4e-45  Ahat=3.7086e-04 B=1.629 C=1.629 E=0.000 max|bh|=28.890
+CRK7s7b(5): kernel 1 resid 8.0e-46  Ahat=1.8455e-04 B=1.392 C=1.392 E=0.000 max|bh|=0.710
+CRK8-b(6): kernel 1 resid 9.0e-46  Ahat=3.7086e-04 B=1.806 C=1.806 E=0.000 max|bh|=0.997
+Verner7(6): Ahat=5.5117e-04 B=1.818 C=1.572 E=0.358 max|bh|=0.356
+Vern7: Ahat=3.7086e-04 B=1.730 C=1.744 E=0.045 max|bh|=0.267
+CCK7(6): Ahat=2.0471e-04 B=2.046 C=2.035 E=0.042 max|bh|=4.595
+DP8(7): Ahat=2.8797e-05 B=2.239 C=2.268 E=0.157 max|bh|=2.547
+Verner8(7): Ahat=3.8236e-05 B=2.286 C=2.361 E=0.456 max|bh|=0.256
+DP6(5): Ahat=1.8455e-04 B=2.197 C=1.506 E=1.261 max|bh|=0.290

@@ -1,0 +1,4 @@
+[77_66_mix seed 16] S=7 levels=[(7, 7), (6, 6)] unknowns=66 conditions=122 warm=62
+  [    296s] batch 1/40 starts 48 hits 0 dims [] best max|r|: 1.8e-06 2.1e-06 2.1e-06 2.5e-06 4.1e-06
+  [    645s] batch 2/40 starts 96 hits 0 dims [] best max|r|: 1.0e-06 1.5e-06 1.8e-06 2.1e-06 2.1e-06
+  [    943s] batch 3/40 starts 144 hits 0 dims [] best max|r|: 1.0e-06 1.5e-06 1.8e-06 2.1e-06 2.1e-06

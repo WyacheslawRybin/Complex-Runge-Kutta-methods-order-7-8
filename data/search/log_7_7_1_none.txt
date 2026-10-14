@@ -1,0 +1,4 @@
+[77_none seed 1] S=7 levels=[(7, 7)] unknowns=55 conditions=85 warm=0
+  [    297s] batch 1/20 starts 48 hits 0 dims [] best max|r|: 2.5e-07 2.5e-07 3.8e-07 5.4e-07 6.5e-07
+  [    622s] batch 2/20 starts 96 hits 0 dims [] best max|r|: 1.9e-07 2.5e-07 2.5e-07 2.9e-07 3.3e-07
+  [    894s] batch 3/20 starts 144 hits 0 dims [] best max|r|: 1.3e-07 1.8e-07 1.9e-07 2.5e-07 2.5e-07

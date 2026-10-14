@@ -1,0 +1,47 @@
+CRK7-s: levels [(7, 7)], real unknowns 55, conditions 85, N_LIST (20, 40, 80)
+start: residual of the order conditions = 7.85e-17
+after Newton                            = 7.85e-17
+errors of the starting tableau: 6.791e-07 5.457e-09 4.151e-11  E_{p+1} = 6.2973e-05  max|coef| = 1.312
+  round  1  relative error = 0.9982  dim tangent = 7  max|coef| = 1.312  step = 3.2e-03
+  round  2  relative error = 0.9953  dim tangent = 7  max|coef| = 1.312  step = 5.1e-03
+  round  3  relative error = 0.9907  dim tangent = 7  max|coef| = 1.312  step = 8.2e-03
+  round  4  relative error = 0.9834  dim tangent = 7  max|coef| = 1.312  step = 1.3e-02
+  round  5  relative error = 0.9720  dim tangent = 7  max|coef| = 1.312  step = 2.1e-02
+  round  6  relative error = 0.9542  dim tangent = 7  max|coef| = 1.313  step = 3.4e-02
+  round  7  relative error = 0.9326  dim tangent = 7  max|coef| = 1.306  step = 5.4e-02
+  round  8  relative error = 0.8919  dim tangent = 7  max|coef| = 1.311  step = 8.6e-02
+  round  9  relative error = 0.8267  dim tangent = 7  max|coef| = 1.328  step = 1.4e-01
+  round 10  relative error = 0.7950  dim tangent = 7  max|coef| = 1.340  step = 1.1e-01
+  round 11  relative error = 0.7617  dim tangent = 7  max|coef| = 1.385  step = 1.8e-01
+  round 12  relative error = 0.7518  dim tangent = 7  max|coef| = 1.630  step = 2.8e-01
+  round 13  relative error = 0.7121  dim tangent = 7  max|coef| = 1.613  step = 2.3e-01
+  round 14  relative error = 0.7041  dim tangent = 7  max|coef| = 1.621  step = 9.0e-02
+  round 15  relative error = 0.6868  dim tangent = 7  max|coef| = 1.628  step = 1.4e-01
+  round 16  relative error = 0.6823  dim tangent = 7  max|coef| = 1.661  step = 2.3e-01
+  round 17  relative error = 0.6700  dim tangent = 7  max|coef| = 1.863  step = 3.7e-01
+  round 18  relative error = 0.6312  dim tangent = 7  max|coef| = 1.885  step = 1.5e-01
+  round 19  relative error = 0.6160  dim tangent = 7  max|coef| = 1.905  step = 1.2e-01
+  round 20  relative error = 0.6028  dim tangent = 7  max|coef| = 1.905  step = 9.4e-02
+  round 21  relative error = 0.5825  dim tangent = 7  max|coef| = 1.904  step = 1.5e-01
+  round 22  relative error = 0.5641  dim tangent = 7  max|coef| = 2.199  step = 2.4e-01
+  round 23  relative error = 0.5162  dim tangent = 7  max|coef| = 3.022  step = 3.9e-01
+  round 24  relative error = 0.4933  dim tangent = 7  max|coef| = 3.031  step = 1.5e-01
+  round 25  relative error = 0.4664  dim tangent = 7  max|coef| = 3.118  step = 2.5e-01
+  round 26  relative error = 0.4413  dim tangent = 7  max|coef| = 3.120  step = 2.0e-01
+  round 27  relative error = 0.4306  dim tangent = 7  max|coef| = 3.113  step = 1.6e-01
+  round 28  relative error = 0.4235  dim tangent = 7  max|coef| = 3.113  step = 1.3e-01
+  round 29  relative error = 0.4098  dim tangent = 7  max|coef| = 3.111  step = 2.0e-01
+  round 30  relative error = 0.4078  dim tangent = 7  max|coef| = 3.116  step = 1.6e-01
+  round 31  relative error = 0.4012  dim tangent = 7  max|coef| = 3.089  step = 1.3e-01
+  round 32  relative error = 0.3986  dim tangent = 7  max|coef| = 3.125  step = 2.1e-01
+  round 33  relative error = 0.3941  dim tangent = 7  max|coef| = 3.145  step = 3.3e-01
+  round 34  relative error = 0.3881  dim tangent = 7  max|coef| = 3.147  step = 2.7e-01
+  round 35  relative error = 0.3856  dim tangent = 7  max|coef| = 3.146  step = 2.1e-01
+  round 36  relative error = 0.3842  dim tangent = 7  max|coef| = 3.142  step = 1.7e-01
+  round 37  relative error = 0.3810  dim tangent = 7  max|coef| = 3.142  step = 1.4e-01
+  round 38  relative error = 0.3804  dim tangent = 7  max|coef| = 3.141  step = 1.1e-01
+  round 39  relative error = 0.3778  dim tangent = 7  max|coef| = 3.141  step = 8.7e-02
+  round 40  relative error = 0.3767  dim tangent = 7  max|coef| = 3.595  step = 1.4e-01
+tuned tableau, errors: 2.831e-07 2.037e-09 1.426e-11
+improvement factors: 2.40 2.68 2.91
+E_{p+1} = 1.0608e-04 (start 6.2973e-05),  max|coef| = 3.595

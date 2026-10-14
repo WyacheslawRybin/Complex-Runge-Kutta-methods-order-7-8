@@ -1,0 +1,4 @@
+[77_crk6 seed 2] S=7 levels=[(7, 7)] unknowns=55 conditions=85 warm=4
+  [    311s] batch 1/20 starts 48 hits 0 dims [] best max|r|: 1.3e-07 2.9e-07 3.0e-07 3.1e-07 3.8e-07
+  [    633s] batch 2/20 starts 96 hits 0 dims [] best max|r|: 1.2e-07 1.3e-07 1.3e-07 2.9e-07 3.0e-07
+  [    938s] batch 3/20 starts 144 hits 0 dims [] best max|r|: 9.9e-08 1.2e-07 1.3e-07 1.3e-07 2.0e-07

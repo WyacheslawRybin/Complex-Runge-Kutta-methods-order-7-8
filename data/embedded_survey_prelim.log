@@ -1,0 +1,43 @@
+  CRK7-B0    q=6 fsal=False: rank 11 of (37, 13)  kernel 2 (inert 2, essential 0)  sv[r-1] 1.08e-03  sv[r] 1.8e-18
+  CRK7-B0    q=6 fsal=True : rank 12 of (37, 14)  kernel 2 (inert 2, essential 0)  sv[r-1] 4.79e-04  sv[r] 1.1e-18
+  CRK7-B0    q=5 fsal=False: rank 10 of (17, 13)  kernel 3 (inert 2, essential 1)  sv[r-1] 2.33e-03  sv[r] 2.3e-17
+  CRK7-B0    q=5 fsal=True : rank 10 of (17, 14)  kernel 4 (inert 2, essential 2)  sv[r-1] 2.63e-03  sv[r] 1.9e-17
+  CRK7-B0    q=4 fsal=False: rank  6 of (8, 13)  kernel 7 (inert 2, essential 5)  sv[r-1] 1.69e-02  sv[r] 1.2e-17
+  CRK7-B0    q=4 fsal=True : rank  6 of (8, 14)  kernel 8 (inert 2, essential 6)  sv[r-1] 1.78e-02  sv[r] 2.9e-17
+  CRK7-B0: Cash-Karp levels (m, q) on the leading m stages: consistent? (rank M / rank [M|r])
+    m=6: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(8/9) q=6:n(9/10)
+    m=5: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(7/8)
+    m=4: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:n(5/6)
+    m=3: q=1:Y(1/1) q=2:Y(2/2) q=3:n(3/4)
+    m=2: q=1:Y(1/1) q=2:Y(2/2)
+    m=1: q=1:Y(1/1)
+  CRK7s7b    q=6 fsal=False: rank 11 of (37, 13)  kernel 2 (inert 2, essential 0)  sv[r-1] 1.25e-03  sv[r] 1.3e-18
+  CRK7s7b    q=6 fsal=True : rank 12 of (37, 14)  kernel 2 (inert 2, essential 0)  sv[r-1] 1.02e-03  sv[r] 8.2e-19
+  CRK7s7b    q=5 fsal=False: rank 10 of (17, 13)  kernel 3 (inert 2, essential 1)  sv[r-1] 1.01e-03  sv[r] 1.6e-17
+  CRK7s7b    q=5 fsal=True : rank 10 of (17, 14)  kernel 4 (inert 2, essential 2)  sv[r-1] 1.95e-03  sv[r] 1.4e-17
+  CRK7s7b    q=4 fsal=False: rank  6 of (8, 13)  kernel 7 (inert 2, essential 5)  sv[r-1] 8.36e-03  sv[r] 2.6e-17
+  CRK7s7b    q=4 fsal=True : rank  6 of (8, 14)  kernel 8 (inert 2, essential 6)  sv[r-1] 8.41e-03  sv[r] 2.7e-17
+  CRK7s7b: Cash-Karp levels (m, q) on the leading m stages: consistent? (rank M / rank [M|r])
+    m=6: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(8/9) q=6:n(9/10)
+    m=5: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(7/8)
+    m=4: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:n(5/6)
+    m=3: q=1:Y(1/1) q=2:Y(2/2) q=3:n(3/4)
+    m=2: q=1:Y(1/1) q=2:Y(2/2)
+    m=1: q=1:Y(1/1)
+  CRK8s9     q=7 fsal=False: rank 15 of (85, 17)  kernel 2 (inert 2, essential 0)  sv[r-1] 1.24e-04  sv[r] 3.5e-19
+  CRK8s9     q=7 fsal=True : rank 16 of (85, 18)  kernel 2 (inert 2, essential 0)  sv[r-1] 1.24e-04  sv[r] 1.9e-19
+  CRK8s9     q=6 fsal=False: rank 14 of (37, 17)  kernel 3 (inert 2, essential 1)  sv[r-1] 3.50e-04  sv[r] 5.7e-18
+  CRK8s9     q=6 fsal=True : rank 15 of (37, 18)  kernel 3 (inert 2, essential 1)  sv[r-1] 2.95e-04  sv[r] 5.2e-18
+  CRK8s9     q=5 fsal=False: rank 10 of (17, 17)  kernel 7 (inert 2, essential 5)  sv[r-1] 9.39e-04  sv[r] 7.5e-17
+  CRK8s9     q=5 fsal=True : rank 10 of (17, 18)  kernel 8 (inert 2, essential 6)  sv[r-1] 1.31e-03  sv[r] 4.6e-17
+  CRK8s9     q=4 fsal=False: rank  6 of (8, 17)  kernel 11 (inert 2, essential 9)  sv[r-1] 5.29e-03  sv[r] 3.7e-17
+  CRK8s9     q=4 fsal=True : rank  6 of (8, 18)  kernel 12 (inert 2, essential 10)  sv[r-1] 5.29e-03  sv[r] 8.3e-17
+  CRK8s9: Cash-Karp levels (m, q) on the leading m stages: consistent? (rank M / rank [M|r])
+    m=8: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(9/10) q=6:n(12/13) q=7:n(13/14) q=8:n(13/14)
+    m=7: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(9/10) q=6:n(11/12) q=7:n(11/12)
+    m=6: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(9/10) q=6:n(9/10)
+    m=5: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:Y(6/6) q=5:n(7/8)
+    m=4: q=1:Y(1/1) q=2:Y(2/2) q=3:Y(4/4) q=4:n(5/6)
+    m=3: q=1:Y(1/1) q=2:Y(2/2) q=3:n(3/4)
+    m=2: q=1:Y(1/1) q=2:Y(2/2)
+    m=1: q=1:Y(1/1)

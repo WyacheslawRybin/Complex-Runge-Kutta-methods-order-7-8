@@ -1,0 +1,7 @@
+level (7,6): resid 4.9e-46  max|b| 4.595  quadratic: 6.028  nonautonomous: 6.289
+level (6,5): resid 2.6e-46  max|b| 8.706  quadratic: 5.094  nonautonomous: 5.002
+level (5,4): resid 1.6e-46  max|b| 17.740  quadratic: 4.091  nonautonomous: 4.001
+level (4,3): resid 9.3e-61  max|b| 14.857  quadratic: 3.003  nonautonomous: 2.824
+level (3,2): resid 8.6e-61  max|b| 1.967  quadratic: 2.003  nonautonomous: 2.551
+level (2,2): resid 0.0e+00  max|b| 4.310  quadratic: 2.003  nonautonomous: 2.072
+level (1,1): resid 0.0e+00  max|b| 1.000  quadratic: 1.000  nonautonomous: 0.998

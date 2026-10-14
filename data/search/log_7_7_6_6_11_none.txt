@@ -1,0 +1,2 @@
+[77_66_none seed 11] S=7 levels=[(7, 7), (6, 6)] unknowns=66 conditions=122 warm=0
+  [    340s] batch 1/40 starts 48 hits 0 dims [] best max|r|: 2.6e-06 3.3e-06 3.3e-06 4.2e-06 5.0e-06

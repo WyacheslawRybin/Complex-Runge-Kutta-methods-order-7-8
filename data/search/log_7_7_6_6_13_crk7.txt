@@ -1,0 +1,4 @@
+[77_66_crk7 seed 13] S=7 levels=[(7, 7), (6, 6)] unknowns=66 conditions=122 warm=36
+  [    272s] batch 1/40 starts 48 hits 0 dims [] best max|r|: 1.4e-06 1.4e-06 1.5e-06 1.7e-06 2.2e-06
+  [    582s] batch 2/40 starts 96 hits 0 dims [] best max|r|: 1.2e-06 1.3e-06 1.4e-06 1.4e-06 1.5e-06
+  [    825s] batch 3/40 starts 144 hits 0 dims [] best max|r|: 1.2e-06 1.3e-06 1.4e-06 1.4e-06 1.4e-06

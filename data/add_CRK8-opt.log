@@ -1,0 +1,2 @@
+  refine: shift 5.03e-12, residual 2.11e-56
+CRK8-opt      s= 9 p=8 resid  6.8e-54-> 2.3e-61 (shift 3.6e-51)  E=7.000004e-06 (unw 2.981e-05) max|c|=5.00000 |A|<=1.571 |b| in [9.056e-59,5.000]  fullC 10  J 79/89 dim 10 gap 3.0e+08  M 15(200, 18)  real=3 C2(i>=3) 1.7e-59 D1re 4.2e-58 c3-2/p 1.1e-01 cs-1 6.0e-61 Re b2 9.1e-59 gap(c) 3.8e-02 stab-dev 2.3e-61  [574s]

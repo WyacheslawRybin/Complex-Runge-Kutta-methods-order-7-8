@@ -1,0 +1,114 @@
+[    4s] CRK7(5)     exponential   tol 1e-13: err=0.00e+00 nfev=756
+[    4s] CRK7(5)     VanderPol     tol 1e-13: err=6.71e-15 nfev=1988
+[    4s] CRK7(5)     Rossler       tol 1e-13: err=6.27e-15 nfev=1911
+[    4s] CRK7(5)     nonautonomous tol 1e-13: err=4.88e-15 nfev=1751
+[    5s] CRK7(5)     Bouali        tol 1e-13: err=1.83e-13 nfev=2680
+[    5s] CRK7(5)     RigidBody     tol 1e-13: err=8.47e-15 nfev=2458
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\problems.py:110: RuntimeWarning: overflow encountered in scalar power
+  f_np=lambda t, y: np.array([1 + y[0] ** 2 * y[1] - 4 * y[0], 3 * y[0] - y[0] ** 2 * y[1]]),
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\problems.py:110: RuntimeWarning: invalid value encountered in scalar power
+  f_np=lambda t, y: np.array([1 + y[0] ** 2 * y[1] - 4 * y[0], 3 * y[0] - y[0] ** 2 * y[1]]),
+[    5s] CRK7(5)     Kepler        tol 1e-13: err=4.26e-13 nfev=6167
+[    6s] CRK7(5)     Lorenz5       tol 1e-13: err=5.37e-13 nfev=12340
+[    6s] CRK7(5)     Brusselator   tol 1e-13: err=1.02e-14 nfev=6832
+[    6s] CRK7s7b(5)  exponential   tol 1e-13: err=4.44e-16 nfev=756
+[    6s] CRK7s7b(5)  nonautonomous tol 1e-13: err=1.43e-13 nfev=1676
+[    6s] CRK7s7b(5)  VanderPol     tol 1e-13: err=4.31e-15 nfev=1950
+[    7s] CRK7s7b(5)  Rossler       tol 1e-13: err=4.65e-15 nfev=1974
+[    7s] CRK7s7b(5)  Bouali        tol 1e-13: err=1.73e-13 nfev=2667
+[    7s] CRK7(5)     Arenstorf     tol 1e-13: err=3.06e-10 nfev=8028
+[    7s] CRK7s7b(5)  RigidBody     tol 1e-13: err=6.78e-15 nfev=2465
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\problems.py:110: RuntimeWarning: overflow encountered in scalar power
+  f_np=lambda t, y: np.array([1 + y[0] ** 2 * y[1] - 4 * y[0], 3 * y[0] - y[0] ** 2 * y[1]]),
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\problems.py:110: RuntimeWarning: invalid value encountered in scalar power
+  f_np=lambda t, y: np.array([1 + y[0] ** 2 * y[1] - 4 * y[0], 3 * y[0] - y[0] ** 2 * y[1]]),
+[    7s] CRK7s7b(5)  Kepler        tol 1e-13: err=1.21e-14 nfev=6020
+[    8s] CRK7s7b(5)  Brusselator   tol 1e-13: err=4.46e-15 nfev=6783
+[    8s] CCK7(6)     exponential   tol 1e-13: err=5.33e-15 nfev=585
+[    8s] CRK7s7b(5)  Lorenz5       tol 1e-13: err=3.08e-13 nfev=12487
+[    8s] CCK7(6)     nonautonomous tol 1e-13: err=2.53e-14 nfev=1314
+[    8s] CCK7(6)     VanderPol     tol 1e-13: err=2.91e-14 nfev=1423
+[    8s] CCK7(6)     Rossler       tol 1e-13: err=1.38e-14 nfev=1536
+[    9s] CCK7(6)     Bouali        tol 1e-13: err=9.24e-13 nfev=1864
+[    9s] CRK7s7b(5)  Arenstorf     tol 1e-13: err=1.39e-11 nfev=8126
+[    9s] CCK7(6)     RigidBody     tol 1e-13: err=9.26e-14 nfev=1734
+[    9s] CCK7(6)     Kepler        tol 1e-13: err=2.17e-11 nfev=4345
+[   10s] CCK7(6)     Brusselator   tol 1e-13: err=1.88e-14 nfev=4814
+[   10s] Verner7(6)  exponential   tol 1e-13: err=2.64e-13 nfev=521
+[   10s] CCK7(6)     Lorenz5       tol 1e-13: err=1.34e-11 nfev=9036
+[   10s] Verner7(6)  VanderPol     tol 1e-13: err=3.23e-14 nfev=1897
+[   10s] Verner7(6)  nonautonomous tol 1e-13: err=4.17e-13 nfev=2036
+[   10s] Verner7(6)  Rossler       tol 1e-13: err=2.50e-14 nfev=1259
+[   10s] Verner7(6)  Bouali        tol 1e-13: err=4.13e-12 nfev=2370
+[   10s] CCK7(6)     Arenstorf     tol 1e-13: err=4.20e-11 nfev=6055
+[   11s] Verner7(6)  RigidBody     tol 1e-13: err=9.51e-13 nfev=2319
+[   11s] Verner7(6)  Kepler        tol 1e-13: err=2.78e-11 nfev=5861
+[   11s] Verner7(6)  Lorenz5       tol 1e-13: err=7.15e-11 nfev=10199
+[   11s] Vern7       exponential   tol 1e-13: err=5.37e-14 nfev=461
+[   11s] Verner7(6)  Brusselator   tol 1e-13: err=1.88e-14 nfev=6247
+[   11s] Vern7       nonautonomous tol 1e-13: err=1.69e-13 nfev=1655
+[   11s] Vern7       VanderPol     tol 1e-13: err=1.60e-14 nfev=1696
+[   12s] Vern7       Rossler       tol 1e-13: err=4.10e-15 nfev=1497
+[   12s] Vern7       Bouali        tol 1e-13: err=2.83e-12 nfev=2156
+[   12s] Verner7(6)  Arenstorf     tol 1e-13: err=3.06e-09 nfev=8157
+[   12s] Vern7       RigidBody     tol 1e-13: err=3.97e-13 nfev=2078
+[   12s] Vern7       Kepler        tol 1e-13: err=9.72e-13 nfev=5981
+[   13s] Vern7       Lorenz5       tol 1e-13: err=5.46e-13 nfev=10852
+[   13s] CRK8(6)     exponential   tol 1e-13: err=2.22e-16 nfev=738
+[   13s] Vern7       Brusselator   tol 1e-13: err=4.37e-14 nfev=5876
+[   13s] CRK8(6)     nonautonomous tol 1e-13: err=1.78e-15 nfev=1725
+[   13s] CRK8(6)     VanderPol     tol 1e-13: err=7.42e-15 nfev=1770
+[   13s] CRK8(6)     Rossler       tol 1e-13: err=7.21e-15 nfev=1591
+[   13s] CRK8(6)     Bouali        tol 1e-13: err=4.66e-14 nfev=2213
+[   14s] Vern7       Arenstorf     tol 1e-13: err=3.06e-10 nfev=8519
+[   14s] CRK8(6)     RigidBody     tol 1e-13: err=1.05e-15 nfev=2157
+[   14s] CRK8(6)     Kepler        tol 1e-13: err=9.95e-14 nfev=5535
+[   15s] CRK8(6)     Lorenz5       tol 1e-13: err=6.96e-13 nfev=10365
+[   15s] CRK8-b(6)   exponential   tol 1e-13: err=0.00e+00 nfev=756
+[   15s] CRK8(6)     Brusselator   tol 1e-13: err=2.04e-15 nfev=5672
+[   15s] CRK8-b(6)   nonautonomous tol 1e-13: err=3.11e-15 nfev=1787
+[   15s] CRK8-b(6)   VanderPol     tol 1e-13: err=2.76e-15 nfev=1796
+[   15s] CRK8-b(6)   Rossler       tol 1e-13: err=2.23e-15 nfev=1530
+[   15s] CRK8-b(6)   Bouali        tol 1e-13: err=8.55e-15 nfev=2376
+[   16s] CRK8(6)     Arenstorf     tol 1e-13: err=1.19e-10 nfev=7244
+[   16s] CRK8-b(6)   RigidBody     tol 1e-13: err=3.66e-15 nfev=2212
+[   16s] CRK8-b(6)   Kepler        tol 1e-13: err=2.18e-14 nfev=5346
+[   17s] CRK8-b(6)   Lorenz5       tol 1e-13: err=1.02e-12 nfev=10267
+[   17s] DP8(7)      exponential   tol 1e-13: err=2.22e-16 nfev=430
+[   17s] CRK8-b(6)   Brusselator   tol 1e-13: err=2.87e-15 nfev=6005
+[   17s] DP8(7)      nonautonomous tol 1e-13: err=3.11e-14 nfev=1432
+[   17s] DP8(7)      VanderPol     tol 1e-13: err=9.19e-15 nfev=1270
+[   17s] DP8(7)      Rossler       tol 1e-13: err=6.91e-15 nfev=1130
+[   17s] DP8(7)      Bouali        tol 1e-13: err=1.82e-12 nfev=1615
+[   18s] CRK8-b(6)   Arenstorf     tol 1e-13: err=2.07e-11 nfev=7567
+[   18s] DP8(7)      Kepler        tol 1e-13: err=1.29e-12 nfev=3718
+[   18s] DP8(7)      RigidBody     tol 1e-13: err=2.80e-14 nfev=1443
+[   18s] DP8(7)      Lorenz5       tol 1e-13: err=1.45e-11 nfev=6731
+[   18s] Verner8(7)  exponential   tol 1e-13: err=4.82e-14 nfev=326
+[   18s] Verner8(7)  nonautonomous tol 1e-13: err=1.89e-13 nfev=1328
+[   18s] DP8(7)      Brusselator   tol 1e-13: err=4.30e-14 nfev=4292
+[   18s] Verner8(7)  VanderPol     tol 1e-13: err=7.16e-14 nfev=1272
+[   18s] Verner8(7)  Rossler       tol 1e-13: err=2.84e-14 nfev=1403
+[   18s] Verner8(7)  Bouali        tol 1e-13: err=1.95e-11 nfev=1546
+[   19s] DP8(7)      Arenstorf     tol 1e-13: err=8.92e-11 nfev=5614
+[   19s] Verner8(7)  RigidBody     tol 1e-13: err=2.53e-13 nfev=1529
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\adaptive.py:99: RuntimeWarning: invalid value encountered in matmul
+  Yi = y + h * (A[i, :i] @ K[:i])
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\adaptive.py:101: RuntimeWarning: invalid value encountered in matmul
+  ynew = y + h * (b @ K); yhat = y + h * (bh @ K)
+D:\HDD\Науко\2026\Complex Methods\Paper order 7-8\code\problems.py:110: RuntimeWarning: overflow encountered in scalar multiply
+  f_np=lambda t, y: np.array([1 + y[0] ** 2 * y[1] - 4 * y[0], 3 * y[0] - y[0] ** 2 * y[1]]),
+[   19s] Verner8(7)  Kepler        tol 1e-13: err=1.09e-11 nfev=3927
+[   19s] Verner8(7)  Lorenz5       tol 1e-13: err=2.94e-12 nfev=7507
+[   19s] DOP853      exponential   tol 1e-13: err=8.88e-16 nfev=505
+[   19s] Verner8(7)  Brusselator   tol 1e-13: err=3.10e-13 nfev=4458
+[   20s] DOP853      nonautonomous tol 1e-13: err=7.19e-14 nfev=1433
+[   20s] DOP853      VanderPol     tol 1e-13: err=2.27e-14 nfev=1318
+[   20s] DOP853      Rossler       tol 1e-13: err=4.75e-14 nfev=768
+[   20s] DOP853      Bouali        tol 1e-13: err=7.41e-12 nfev=1531
+[   20s] Verner8(7)  Arenstorf     tol 1e-13: err=2.14e-09 nfev=5852
+[   20s] DOP853      RigidBody     tol 1e-13: err=7.51e-14 nfev=1393
+[   20s] DOP853      Kepler        tol 1e-13: err=6.08e-12 nfev=3351
+[   20s] DOP853      Lorenz5       tol 1e-13: err=1.70e-11 nfev=6205
+[   20s] DOP853      Brusselator   tol 1e-13: err=8.60e-15 nfev=4154
+[   21s] DOP853      Arenstorf     tol 1e-13: err=8.83e-10 nfev=5044
