@@ -56,7 +56,7 @@ def Tm(m):
 # ---------------------------------------------------------------- stability regions
 def fig_stability():
     st = json.load(open(os.path.join(DATA, "stability.json")))
-    X, Y = np.meshgrid(np.linspace(-6.8, 1.6, 1000), np.linspace(-6.2, 6.2, 1200)); Z = X + 1j * Y
+    X, Y = np.meshgrid(np.linspace(-6.8, 1.6, 1000), np.linspace(-7.2, 7.2, 1400)); Z = X + 1j * Y
     P = lambda co: np.abs(np.polynomial.Polynomial(co)(Z))
     co = lambda k: st[k]["coeffs"]
     has = lambda k: k in st
@@ -77,7 +77,7 @@ def fig_stability():
         a.axhline(0, color="#999999", lw=0.4); a.axvline(0, color="#999999", lw=0.4)
         a.legend(loc="upper center", bbox_to_anchor=(0.5, -0.2), ncol=2, fontsize=6.2, handlelength=2.0,
                  columnspacing=0.8)
-        a.set_xlim(-6.8, 1.6); a.set_ylim(-6.2, 6.2)
+        a.set_xlim(-6.8, 1.6); a.set_ylim(-6.8, 6.8)
     ax[0].set_ylabel(r"Im $z$")
     x = np.linspace(-7, 0.5, 2000)
     for lab, c, key in [(r"$T_7$", Tm(7), "CRK7-opt"), (r"$T_8$", Tm(8), None)] + \
